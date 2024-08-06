@@ -1,4 +1,4 @@
-# School-Data-Set-Excel-  
+# School _DataSet_Excel
 
 Cleaning,Sorting and Transforming data using Average,CountIF,Round,Concatenate,SUMIF functions
 
