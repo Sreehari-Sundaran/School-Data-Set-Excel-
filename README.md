@@ -1,5 +1,5 @@
 # School-Data-Set-Excel-  
- [⬆️ Back to Excel Table](#back_to_excel1)<br>
+
 Cleaning,Sorting and Transforming data using Average,CountIF,Round,Concatenate,SUMIF functions
 
 <ins>**Problem Solving**</ins> -Case Study of School Data Set<br>
