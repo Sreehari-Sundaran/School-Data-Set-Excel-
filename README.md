@@ -1,5 +1,5 @@
 # School-Data-Set-Excel-
-Cleaning,Sorting and Transforming data using Average,CountIF,Round,Concatenate,IFSUM functions
+Cleaning,Sorting and Transforming data using Average,CountIF,Round,Concatenate,SUMIF functions
 
 <ins>**Problem Solving**</ins> -Case Study of School Data Set<br>
 **Problem Statement**<br>
